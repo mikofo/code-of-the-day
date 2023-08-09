@@ -1,0 +1,17 @@
+{
+  "name": "code-of-the-day",
+  "version": "1.0.0",
+  "repository": "git@github.com:mikofo/code-of-the-day.git",
+  "author": "Michael Foster",
+  "license": "MIT",
+  "scripts": {
+    "generateReadme": "node ./generateReadme.js",
+    "prepare": "husky install"
+  },
+  "dependencies": {
+    "glob": "^10.3.3"
+  },
+  "devDependencies": {
+    "husky": "^8.0.0"
+  }
+}
