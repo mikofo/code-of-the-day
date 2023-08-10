@@ -16,7 +16,7 @@ See removeDuplicates.py in this directory.
 
 ## Statistics
 
-![Solution Statistics](https://file%2B.vscode-resource.vscode-cdn.net/Users/michaelfoster/Git/code-of-the-day/2023/August/10/solutionStats.png?version%3D1691676435841)
+![Solution Statistics](solutionStats.png)
 
 ## Analysis
 
