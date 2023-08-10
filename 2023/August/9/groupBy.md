@@ -22,7 +22,7 @@ See groupBy.js in this directory.
 
 **Completed in 1 min, 50 sec**
 
-![Solution Statistics](https://file%2B.vscode-resource.vscode-cdn.net/Users/michaelfoster/Git/code-of-the-day/2023/August/8/solutionStats.png?version%3D1691596896928)
+![Solution Statistics](solutionStats.png)
 
 ## Analysis
 
