@@ -7,8 +7,8 @@ Each day will have a markdown file with more detail along with a solution file.
 
 # Running Statistics
 
-I have completed 1 problem.
+I have completed 2 problems.
 
-On average, my solutions have a better runtime than 93.99% of solutions.
+On average, my solutions have a better runtime than 95.255% of solutions.
 
-On average, my solutions have more efficient memory usage than 83.65% of solutions.
+On average, my solutions have more efficient memory usage than 86.62% of solutions.
