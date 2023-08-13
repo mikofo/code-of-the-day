@@ -9,6 +9,6 @@ Each day will have a markdown file with more detail along with a solution file.
 
 I have completed 4 problems.
 
-On average, my solutions have a better runtime than 92.30% of solutions.
+On average, my solutions have a better runtime than 94.39% of solutions.
 
-On average, my solutions have more efficient memory usage than 92.06% of solutions.
+On average, my solutions have more efficient memory usage than 89.96% of solutions.
