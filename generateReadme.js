@@ -21,8 +21,8 @@ glob("**/stats.json").then((files) => {
 
   const content = getReadmeTemplate(
     solutionCount,
-    runtimeAverage,
-    memoryAverage
+    runtimeAverage.toFixed(2),
+    memoryAverage.toFixed(2)
   );
 
   // Write content to the markdown file
